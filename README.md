@@ -1,5 +1,5 @@
 - 👋 Hi there, I'am Alianna 🌱
-- 📈 I’m interested in Web development and Data Science/Analysis 💻.
+- 💻 I’m interested in Web development and Data Science/Analysis 📈.
 
 
 <!---
