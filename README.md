@@ -1,7 +1,12 @@
-- 👋 Hi there, I'am Alianna 🌱
-- 💻 I’m interested in Web development/programming, Data Science/Analysis and ML/DL 📈
-- ✍ I’m always learning Web development/programming, Data Science/Analysis and ML/DL 📊
-- 🤝 I’m looking to collaborate on any project related to the the above-mentioned fields and sciences 📝
+### <div align="center">👋 Hi there, I'am Alianna 🌱 </div>
+<br>
+
+- ####  &nbsp; 💻  &nbsp; I am interested in Web development/programming, Data Science/Analysis and ML/DL   &nbsp; 📈
+- ####  &nbsp; ✍  &nbsp; I’m always learning Web development/programming, Data Science/Analysis and ML/DL  &nbsp; 📊
+- ####  &nbsp; 🤝  &nbsp; I’m looking to collaborate on any project related to the above-mentioned fields and sciences  &nbsp; 📝
+<br>
+
+  ### <div align="center"> 🤗 Thanks for your interest in my work🙏 </div>
 
 
 <!---
