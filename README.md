@@ -7,12 +7,11 @@
 <br>
 
 ## <div align="center"> Tools and Programming Languages </div>
-<br>
+<br><br>
 
 <img align="left" alt="Git" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" align="left"/>
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" align="left"/>
 <img align="left" alt="Bootstrap" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
@@ -27,7 +26,7 @@
 <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/r/r_48x48.png" align="left"/>
 
 
-<br><br><br><br>
+<br><br><br><br><br>
 
   ### <div align="center"> 🤗 Thanks for your interest in my work🙏 </div>
 
