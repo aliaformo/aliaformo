@@ -21,6 +21,7 @@
 
 <img src="https://user-images.githubusercontent.com/88201067/189842194-7873c5c0-6f76-4bf8-9051-134f83bf017e.png" height="48" align="left"/>
 <img align="left" alt="MySQL" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Postgres" width="48px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" />
 <img align="left" alt="MongoDB" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" align="left"/>
 <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/r/r_48x48.png" align="left"/>
