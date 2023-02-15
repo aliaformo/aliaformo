@@ -32,6 +32,8 @@
 
 <br><br><br><br><br>
 
+ ### <div align="center"> 🌎 I work to build a better world for everyone 👨‍👩‍👧‍👦 </div>
+
   ### <div align="center"> 🤗 Thanks for your interest in my work🙏 </div>
 
 
