@@ -6,7 +6,7 @@
 
 - ###  &nbsp; 💻  &nbsp; I am interested in Web development/programming, Data Science/Analysis and ML/DL   &nbsp; 📈
 - ###  &nbsp; ✍  &nbsp; I’m always learning Web development/programming, Data Science/Analysis and ML/DL  &nbsp; 📊
-- ###  &nbsp; 🤝  &nbsp; I’m looking to collaborate on any project related to the above-mentioned fields and sciences  &nbsp; 📝
+- ###  &nbsp; 🤝  &nbsp; I’m looking to collaborate on projects related to the above-mentioned fields and sciences  &nbsp; 📝
 <br>
 
 ## <div align="center"> Tools and Programming Languages </div>
