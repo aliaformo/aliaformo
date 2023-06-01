@@ -11,7 +11,7 @@
 
 ## <div align="center"> Tools and Programming Languages </div>
 
-- ### Tools</div>
+- [x] Tools
 <img align="left" alt="MIcrosoft Office" height="48" width="48" src="https://cdn.simpleicons.org/microsoftoffice/red" />
 <img align="left" alt="Google Sheets" height="48" width="48" src="https://cdn.simpleicons.org/googlesheets/green" />
 <img align="left" alt="Tableau" height="48" width="48" src="https://cdn.simpleicons.org/tableau/blue" />
@@ -26,7 +26,7 @@
 
 <br><br><br><br>
 
-- ###  Programming Languages and DBM</div>
+- [x]  Programming Languages and DBM
 
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" align="left"/>
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_48x48.png" align="left"/>
