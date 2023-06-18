@@ -29,6 +29,7 @@
 - [x]  Programming Languages and DBM
 
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" align="left"/>
+<img align="left" alt="Power BI" height="48" width="48" src="https://cdn.simpleicons.org/jquery/lightblue" />
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_48x48.png" align="left"/>
 <img align="left" alt="React" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img src="https://user-images.githubusercontent.com/88201067/189842194-7873c5c0-6f76-4bf8-9051-134f83bf017e.png" height="48" align="left"/>
