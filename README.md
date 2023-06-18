@@ -15,7 +15,7 @@
 <img align="left" alt="MIcrosoft Office" height="48" width="48" src="https://cdn.simpleicons.org/microsoftoffice/red" />
 <img align="left" alt="Google Sheets" height="48" width="48" src="https://cdn.simpleicons.org/googlesheets/green" />
 <img align="left" alt="Tableau" height="48" width="48" src="https://cdn.simpleicons.org/tableau/blue" />
-<img align="left" alt="Power BI" height="48" width="48" src="https://cdn.simpleicons.org/powerbi/yellow" />
+<img align="left" alt="Power BI" height="48" width="48" src="https://cdn.simpleicons.org/powerbi/#eec331" />
 <img align="left" alt="Git" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Power BI" height="48" width="48" src="https://cdn.simpleicons.org/github/gray" />
 <img align="left" alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
