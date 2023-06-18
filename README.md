@@ -21,7 +21,7 @@
 <img align="left" alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Figma" height="48" width="48" src="https://cdn.simpleicons.org/figma/purple" />
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" align="left"/>
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" align="left"/>
+<img align="left" alt="Power BI" height="48" width="48" src="https://cdn.simpleicons.org/css3/#2965f1" />
 <img align="left" alt="Bootstrap" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
 
 <br><br><br><br>
