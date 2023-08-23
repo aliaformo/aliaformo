@@ -1,8 +1,7 @@
 ![](img.jpg)
 <br>
 
-## <div align="center"> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> &nbsp; Hi there, I'am Alianna &nbsp; 🌱 </div>
-<br>
+## <div align="center"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="48px" height="48px" alt="hi"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=5000&color=indigo&background=46FFD100&width=535&lines=Hi+there!+I'm+Alianna🌱)](https://git.io/typing-svg)</div>
 
 - ###  &nbsp; 💻  &nbsp; I am interested in Data Analysis and Web development &nbsp; 📈
 - ###  &nbsp; ✍  &nbsp; I’m always learning Data Analysis and Web development &nbsp; 📊
@@ -11,8 +10,8 @@
 
 ## <div align="center"> Tools and Programming Languages </div>
 
-- [x] Tools
-<img align="left" alt="MIcrosoft Office" height="48" width="48" src="https://cdn.simpleicons.org/microsoftoffice/red" />
+- [x] TOOLS
+<img align="left" alt="Microsoft Office" height="48" width="48" src="https://cdn.simpleicons.org/microsoftoffice/red" />
 <img align="left" alt="Google Sheets" height="48" width="48" src="https://cdn.simpleicons.org/googlesheets/green" />
 <img align="left" alt="Tableau" height="48" width="48" src="https://cdn.simpleicons.org/tableau/blue" />
 <img align="left" alt="Power BI" height="48" width="48" src="https://cdn.simpleicons.org/powerbi/#eec331" />
@@ -26,7 +25,7 @@
 
 <br><br><br><br>
 
-- [x]  Programming Languages and DBM
+- [x]  PROGRAMMING LANGUAGES AND DBM
 
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" align="left"/>
 <img align="left" alt="Power BI" height="48" width="48" src="https://cdn.simpleicons.org/jquery/lightblue" />
@@ -46,7 +45,7 @@
 
  ### <div align="center"> 🌎 I work to build a better world for everyone 👨‍👩‍👧‍👦 </div>
 
-  ### <div align="center"> 🤗 Thanks for your interest in my work🙏 </div>
+  ### <div align="center"> 🤗 Thanks for your interest in visiting my repos🙏 </div>
 
 
 <!---
